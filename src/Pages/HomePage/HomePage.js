@@ -65,7 +65,8 @@ const HomePage = ({ children }) => {
       <nav className={styles.header}>
         <div className={styles.imageContainer}>
           <img
-            src="./zz-logo.png"
+            // src="./zz-logo.png"
+            src="./logo.jpg"
             alt="company logo"
             className={styles.logo}
             onClick={() => {

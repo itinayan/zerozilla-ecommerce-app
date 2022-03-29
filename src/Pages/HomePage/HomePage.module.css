@@ -25,6 +25,7 @@
     max-width:100%;
     min-width: 80px;
     object-fit:cover;
+    max-height: 80px;
     padding:0 10px;
     cursor: pointer;
 }
